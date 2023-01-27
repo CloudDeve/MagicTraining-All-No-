@@ -1,4 +1,4 @@
---loadstring(game:HttpGet(""))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/CloudDeve/MagicTraining-All-No-/main/MT"))()
 
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/MagicTraining'),true))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
